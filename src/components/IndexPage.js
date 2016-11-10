@@ -91,7 +91,7 @@ export default class IndexPage extends React.Component {
                         </div>
 
                          <div className="col-xs-3 col-sm-3 height-100">
-                            <div className="row row-a">
+                            <div className="row row-a" id="a3">
                                 <div className="col-xs-12"> 
                                     <div id="nav-bar" className="box-row">
                                          <ul id="nav-ul">
@@ -102,7 +102,7 @@ export default class IndexPage extends React.Component {
                                     </div>
                                 </div>
                             </div>
-                            <div className="row row-b">
+                            <div className="row row-b" id="b3">
                                 <div className="col-xs-12">
                                     <div id="text-block" className="box-row">
                                         <div >
@@ -119,7 +119,7 @@ export default class IndexPage extends React.Component {
                                     </div>
                                 </div>
                             </div>
-                            <div className="row row-c">
+                            <div className="row row-c" id="c3">
                                 <div className="col-xs-12"><div className="box-row"></div></div>
                             </div>
                         </div>
